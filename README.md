@@ -7,6 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there 👋, My name is LALO
 
+<a href="https://app.daily.dev/Lalo"><img src="https://api.daily.dev/devcards/8b5f403a4726478bb79d2ff385f06407.png?r=b3v" width="400" alt="Lorenzo's Dev Card"/></a>
+
 <img width="100%" src="https://github-profile-page-creator.netlify.app/![Header](./your-header-image-name.png)" alt="my banner">
 
 ## 💫 Liitle Bit More About Me
@@ -38,5 +40,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://leetcode.com/laluxx"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 📊 Github Status
-<a href="https://app.daily.dev/Lalo"><img src="https://api.daily.dev/devcards/8b5f403a4726478bb79d2ff385f06407.png?r=b3v" width="400" alt="Lorenzo's Dev Card"/></a>
