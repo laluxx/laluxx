@@ -1,7 +1,7 @@
 Welcome to my profile (ᗒᗨᗕ)
 
-About Me:
-I’m currently working on my own voxel engine<br> I’m looking to collaborate on anything interesting<br> I’m currently learning lua and nvim <br>
+About Me:<br>
+I’m currently working on my own voxel engine<br> I always enjoy learning new things <br> I’m currently learning lua and nvim <br>
 
 
 Socials:
