@@ -7,9 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there 👋, My name is LALO
 
-<a href="https://app.daily.dev/Lalo"><img src="https://api.daily.dev/devcards/8b5f403a4726478bb79d2ff385f06407.png?r=b3v" width="250" alt="Lorenzo's Dev Card"/></a>
-
-
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on nothing</p>
 <p>👯 I want to collaborate on caca</p>
